@@ -5,7 +5,7 @@
   Set your text equaled to the variable sentence.  
   Then your can generate word data base(morph.db) and senryu from it by following command :
   
-  ```
-  python make_morph_db.py
-  python make_random.py
-  ```
+```
+$ python make_morph_db.py
+$ python make_random.py
+```
